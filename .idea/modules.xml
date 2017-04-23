@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/POIExelReader.iml" filepath="$PROJECT_DIR$/POIExelReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstSpringProject.iml" filepath="$PROJECT_DIR$/FirstSpringProject.iml" />
     </modules>
   </component>
 </project>
