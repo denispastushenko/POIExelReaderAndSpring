@@ -3,7 +3,6 @@ build
 .classpath
 .project
 .settings
-*.class
 *.MF
 .checkstyle
 out/
